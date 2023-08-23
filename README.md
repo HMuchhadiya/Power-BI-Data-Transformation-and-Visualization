@@ -1,5 +1,5 @@
 # Power-BI-Data-Transformation-and-Visualization
-In this project, I have exclusively utilized Power BI to proficiently transform and visually represent data. Aligned with the specific business requirements, I have diligently addressed their inquiries and provided actionable insights.
+In this project, I have exclusively utilized Power BI to proficiently transform and visually represent data, while also fulfilling a unique requirement. As per the business specifications, one of the visualizations was identified as a static element, designed to remain unchanged even when filters are applied
 
 Key Highlights:
 
